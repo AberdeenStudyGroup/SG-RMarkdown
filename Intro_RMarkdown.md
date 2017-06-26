@@ -161,7 +161,9 @@ So far example, if I had the following image of a coding cat saved in /users/s10
 
 \!\[](/users/s10ss5/Documents/AberdeenStudyGroup/coding_cat.png)
 
-NOTE! Using tilde (~) in the path to specify home won't work here!
+NOTES!
+* Using tilde (~) in the path to specify home won't work here!
+* I use a Mac so my path has forward slashes (the same goes for linux). If you're using Windows, you'll need to use back slashes. 
 
 <p align=center>
 <img src="./Images/coding_cat.png">
